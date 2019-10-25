@@ -16,3 +16,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+# Modified by JJ for 2nd file change and committed
